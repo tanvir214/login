@@ -1,0 +1,223 @@
+* {
+	margin: 0px;
+}
+
+body {
+	background: url(../img/bg.jpg)no-repeat;
+	background-size: cover;
+	font-family: 'Ubuntu Mono', monospace;
+	display: block;
+}
+
+	/*login page*/
+
+
+.container {
+	width: 620px;
+	margin: 0px auto;
+}
+
+.logo {
+	margin: 20% auto;
+	width: 270px;
+	height: 430px;
+	background: #00aae5;
+	float: left;
+}
+
+.logo img{
+	width: 220px;
+    height: 220px;
+    margin: 40px auto;
+    display: block;
+
+}
+
+.logo h2{
+	text-align: center;
+}
+
+.logo h3{
+	text-align: center;
+}
+
+.login{
+	margin: 20% auto;
+	width: 350px;
+	height: 430px;
+	background: white;
+	float: left;
+}
+
+.login img{
+	width: 100px;
+    height: 100px;
+    margin: 15px auto;
+    display: block;
+}
+
+.login-container{
+	margin: 0px auto;
+	width: 70%;
+}
+
+.login-container h3{
+	text-transform: uppercase;
+	padding: 10px;
+	color: #00aae5;
+}
+
+.from-control {
+	width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.btn {
+	margin: 10px auto;
+    display: block;
+    height: 40px;
+    width: 100%;
+    background: #00aae5;
+    border: none;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+}
+
+.sign{
+	width: 45%;
+    margin: 20px 0px 0px 10px;
+	text-align: left;
+	float: left; 
+}
+
+.forget{
+	width: 50%;
+	margin: 20px auto;
+	text-align: right;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+	font-size: medium;
+	font-weight: bold;
+	color: #00aae5;
+}
+
+
+/*sign up*/
+.res {
+	width: 85%;
+	margin: 20% auto;
+	padding: 10px;
+	background: white;
+}
+
+
+.res img{
+	width: 100px;
+    height: 110px;
+    margin: 15px auto;
+    display: block;
+}
+
+.res h2{
+	text-transform: uppercase;
+	text-align: center;
+	padding: 10px;
+	color: #00aae5;
+}
+
+.sign_contain{
+	margin: 0px auto;
+	width: 70%;
+}
+
+
+.sign_contain h3{
+	text-transform: uppercase;
+	color: #00aae5;
+}
+
+.sign_contain p{
+	text-transform: uppercase;
+    margin: 10px 0px 0px 0px;
+    color: #00aae5;
+}
+
+.sign-form {
+	width: 100%;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.sign-btn{
+	margin: 10px auto;
+    display: block;
+    height: 40px;
+    width: 50%;
+    background: #00aae5;
+    border: none;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+}
+
+.return{
+	padding: 10px;
+	margin: 0px 0px 0px 20px;
+}
+
+
+	/*forget*/
+
+.forget-container{
+	width: 90%;
+	margin: 20% auto;
+	padding: 10px;
+	background: white;
+}
+
+.forget-container img{
+	width: 100px;
+    height: 140px;
+    margin: 0px auto;
+    padding: 10px;
+    display: block;
+}
+
+.forget-add{
+	width: 70%;
+    margin: 0px auto;
+}
+
+.forget-add h2{
+	text-transform: uppercase;
+	color: #00aae5;
+}
+
+.forget-form{
+	width: 100%;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.forget-btn{
+	margin: 10px auto;
+    display: block;
+    height: 40px;
+    width: 50%;
+    background: #00aae5;
+    border: none;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+}
+
+
+.return-login{
+	text-decoration: none;
+	padding: 10px;
+}
